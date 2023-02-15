@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfpUvzgX7n/F3Fpqnl0Csymm0Xm5t1yipbktOlJ3Ja1rQ1NGcJ1Ya3QAtieatK/T6WNmYNA2Z7Nd4tbN0vPPPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pythagorasweb\\RiderProjects\\HubbyTest\\HubbyTest\\HubbyTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Pythagorasweb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
